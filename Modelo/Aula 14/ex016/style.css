@@ -23,3 +23,26 @@ footer {
     text-align: center;
     font-style: italic;
 }
+
+#form{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    
+}
+
+input[type= "button"]{
+    border: none;
+    background-color: rgb(44, 44, 44);
+    color: aliceblue;
+    height: 25px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+#mensagem{
+    padding: 20px;
+    height: auto;
+}
+
+
